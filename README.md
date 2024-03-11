@@ -38,8 +38,6 @@
 
 ⇾ Identified keywords or phrases in job descriptions to understand common requirements or preferences among employers
 
-# Some Jupyter Notebook Snapshots:-
-
 
 # Challenges:-
 ◽ Dealt with the missing values by applying appropriate data imputation techniques
