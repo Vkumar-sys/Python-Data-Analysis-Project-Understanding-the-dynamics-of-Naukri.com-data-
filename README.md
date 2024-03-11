@@ -17,9 +17,9 @@
 
 # Methods and Tools:-
 
-🔷 Utilized python for data cleaning exploration and analysis
+🔷 Utilized Python for data cleaning exploration and analysis
 
-🔷 Employed pandas,numpy,matplotlib,seaborn
+🔷 Employed pandas,numpy,matplotlib,seaborn for data manipulation and visualizations
 
 🔷 Conducted statistical analysis to identify significant trends and patterns
 
