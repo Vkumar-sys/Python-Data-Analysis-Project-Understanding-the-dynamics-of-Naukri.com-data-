@@ -51,8 +51,8 @@
   better understanding of job market dynamics on naukri.com
 
 # Future Steps:-
-* Continue to explore additional dimensions of the dataset incorporating the machine learnings models
-  for predictive analysis and staying updated on industry
+* Continue to explore additional dimensions of the dataset incorporating the machine learnings models for predictive 
+  analysis and staying updated for industry trends for continuous improvemnts
 
 -------------------------------------------***************************------------------------------------------------
   
